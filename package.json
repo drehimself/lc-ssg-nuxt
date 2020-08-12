@@ -14,5 +14,7 @@
     "github-markdown-css": "^4.0.0",
     "nuxt": "^2.14.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^3.0.0"
+  }
 }
